@@ -9,7 +9,11 @@ A paper says *"where \( \alpha \) is the learning rate"*. A reader links `α` to
 across papers where the same symbol is reused with different meanings and where one
 description can cover several symbols at once.
 
-Course project at IIIT-Delhi, April 2024.
+Course project at IIIT-Delhi, April 2024, built jointly by
+**Chehak Malhotra** and **Shivoy Arora**.
+
+We worked on it together from one machine, so the whole commit history sits under
+a single account. The contributor graph is not a record of who did what here.
 
 ## Approach
 
